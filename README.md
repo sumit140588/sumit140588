@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋, Welcome to My Profile
 
+- 🌱 I’m currently learning ##React Native
 <!--
 **sumit140588/sumit140588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
